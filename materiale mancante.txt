@@ -1,0 +1,45 @@
+-  slides di reti, java, opengl
+
+-  esercizi da svolgere!!
+
+
+
+
+
+
+libri di teoria dei segnali:
+
+1. L. Lo Presti e F. Neri, L'analisi dei segnali, CLUT, 1992. 
+2. L. Lo Presti e F. Neri, Introduzione ai processi casuali, CLUT, 1992. 
+3. M. Laddomada e M. Mondin, Elaborazione numerica dei segnali, Pearson, 2007. 
+
+
+
+
+
+
+libri di esercizi di teoria dei segnali:
+
+A. Papoulis e S. U. Pillai, Probability, Random Variables and Stochastic Processes, McGraw-Hill, 2002. 
+
+F. Dovis, E. Magli, Esercizi svolti di teoria dei segnali, CLUT, 2011 
+
+
+
+
+
+due libri di esercizi di reti telematiche:
+
+(per la prima parte del corso) A. Bianco, C. Casetti, P. Giaccone, Esercitazioni di reti telematiche, Capitoli 1-2-3, CLUT (in italiano) 
+
+(per la seconda parte del corso) F. Risso, dispense di esercizi (in inglese, disponibili sul portale della didattica)
+
+
+
+
+
+
+un libro di computer grafica:
+
+Alan Watt, 3D computer Graphics, 2000, Addison Wesley 
+
